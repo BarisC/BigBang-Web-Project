@@ -1,0 +1,86 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="main1.master.cs" Inherits="BigBang_original.main1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>Bigbang</title>
+    <link href="style.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div id="wrapper">
+        
+       <header>
+            <div class="logo">
+              BİGBANG
+            </div>
+            <nav>
+                <ul>
+                    <li>
+                        <a href="default.aspx">Anasayfa</a>
+                      
+                    </li> 
+                    <li>
+                        <a href="yanitlar.aspx">Yanıtlar</a>
+                    </li>
+                  
+                     <li>
+                        <a href="profil.aspx">Profil</a>
+                      
+                    </li>
+                     <li>
+                        <a href="default.aspx">Bildirimler</a>
+                      
+                    </li>
+                </ul>
+            </nav>
+            <div class="arama-wrap" >
+                <asp:TextBox ID="txtArama" CssClass="txtArama" runat="server" placeholder="arama"/>
+                <asp:Button ID="btnArama"  CssClass="btnArama" runat="server" Text="ara" />
+                <asp:Button ID="btnSoru" CssClass="btnSoru" runat="server" Text="Soru Sor" />
+            </div>
+        </header>
+
+        <div class="banner">
+        Merak Ettiğin Her Şey İçin Big Bang!
+        </div>
+
+        <div class="sol-taraf">
+            
+            <div class="topics">
+                <div class="ust">
+                    topics
+                </div>
+                <div class="alt">
+                   <div class="topics-wrap">
+                       <asp:Label runat="server" Text="topics Adı"/> <br />
+                      
+                   </div>
+
+                </div>
+
+            </div>
+
+        </div>
+       
+       
+        <div class="icerik">
+            <div class="soru">
+                <asp:TextBox ID="txtsoru" CssClass="txtsoru" runat="server" placeholder="Bir soru sorun!"/>
+                <asp:Button ID="Button1"  CssClass="btnsoru" runat="server" Text="Sor"/>
+            </div>
+        </div>
+
+
+    
+    </div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        
+    </form>
+</body>
+</html>

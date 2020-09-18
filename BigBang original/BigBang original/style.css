@@ -1,0 +1,422 @@
+﻿body {
+    background-color: #ccf3f6;
+    background-image: url('image/goruntu.jpg');
+}
+*{
+    margin:0;
+    padding:0;
+    border:0;
+}
+a{
+    text-decoration:none;
+    color:#08069b;
+}
+a:hover{
+    color:#999;
+}
+#wrapper{
+    width:1100px;
+    height:1100px;
+    margin:0 auto;
+}
+
+header{
+    float:left;
+    width:100%;
+    height:45px;
+    background-color:#fff;
+}
+    header .logo {
+        float: left;
+        width: 120px;
+        height: 45px;
+        line-height: 45px;
+        text-decoration-style:solid;
+        font-family:'Comic Sans MS';
+        font-size:20px;
+        color:darkblue;
+        background-size:contain;
+        text-align:center;
+    }
+  header nav{
+      float:left;
+      width:610px;
+      height:45px;
+      line-height:45px;
+
+  }
+     header nav ul{
+         list-style:none;
+     }
+        header nav ul li{
+            float:left;
+            margin:0 10px;
+            color:#555;
+        }
+              
+               header nav ul li.bildirimler-wrap{
+                   position:relative;
+               }
+               header nav ul li.bildirimler-wrap.bildirimler{
+                   display:none;
+                   position:absolute;
+                   width:200px;
+                   height:auto;
+                   background-color:red;
+               }
+    header.arama-wrap{
+        float:left;
+        width:260px;
+        height:45px;
+
+    }
+        header .arama-wrap .txtArama{
+            float:left;
+            width:180px;
+            padding:10px;
+            height:25px;
+        }
+        header .arama-wrap .btnArama{
+            float:left;
+            width:65px;
+            height:45px;
+          
+        }
+
+        header .arama-wrap .btnSoru {
+            float: left;
+            width: 105px;
+            height: 45px;
+            background-color: #4452f5;
+        }
+   
+   
+.banner{
+    float:left;
+    margin-top:30px;
+    width:1100px;
+    height:150px;
+    background-color:lightgrey;
+    line-height:150px;
+    text-align:center;
+    font-size:60px;
+    font-family:'Comic Sans MS';
+    color:darkblue;
+
+
+}
+
+.container {
+    
+    width: 500px;
+    height:auto;
+    background-color:transparent;
+    margin:auto;
+ 
+}
+    .container .hızlı-kayıt {
+        width: 500px;
+        height: auto;
+        margin-top: 100px;
+        background-color: transparent;
+        color: white;
+    }
+        .container .hızlı-kayıt .üst {
+            width: 485px;
+            height: 50px;
+            line-height: 50px;
+            padding-left: 15px;
+            border-bottom: 1px solid #ccc;
+            background-color: #fff;
+            color:white;
+            font-size:20px;
+            background-color: transparent;
+        }
+        .container .hızlı-kayıt .alt {
+            width: 465px;
+            padding: 17.5px;
+            height: auto;
+            border-bottom: 1px solid #ccc;
+            color: #555;
+            background-color: #fff;
+            background-color: transparent;
+            color: white;
+        }
+
+          .container .hızlı-kayıt .alt .textkAd {
+              width: 450px;
+              height: 40px;
+              border: 1px solid #ccc;
+              padding-left: 15px;
+} 
+
+            .container .hızlı-kayıt .alt .textsifre {
+                width: 450px;
+                height: 40px;
+                padding-left:15px;
+                border: 1px solid #ccc;
+                
+            }
+
+            
+            .container .hızlı-kayıt .alt .btnKayıt {
+                float:left;
+                width: 150px;
+                height: 40px;
+                line-height: 40px;
+                text-align: center;
+                color: white;
+                margin-top:20px;
+                background-color: blue;
+            }
+            .container .hızlı-kayıt .alt .btnGiris {
+                float: right;
+                width: 150px;
+                height: 40px;
+                line-height: 40px;
+                text-align: center;
+                color: white;
+                background-color: green;
+                margin-top: 20px;
+               
+            }
+             .container .hızlı-kayıt .alt .lblkyt{
+                 float:left;
+                 color:white;
+                 margin-top:30px;
+                 font-size:15px;
+             }
+           
+.container2 {
+    
+    width: 500px;
+    height:auto;
+    background-color:transparent;
+    margin:auto;
+ 
+}
+    .container2 .hızlı-kayıt2 {
+        width: 500px;
+        height: auto;
+        margin-top: 100px;
+        background-color: transparent;
+       
+    }
+        .container2 .hızlı-kayıt2 .üst2 {
+            width: 485px;
+            height: 50px;
+            line-height: 50px;
+            padding-left: 15px;
+            border-bottom: 1px solid #ccc;
+            background-color: #fff;
+            color:white;
+            font-size:20px;
+            background-color: transparent;
+        }
+        .container2 .hızlı-kayıt2 .alt2 {
+            width: 465px;
+            padding: 17.5px;
+            height:auto;
+            border-bottom: 1px solid #ccc;
+            color:white;
+            background-color: #fff;
+            background-color: transparent;
+          
+        }
+            .container2 .hızlı-kayıt2 .alt2 .textad2 {
+                width: 450px;
+                height: 40px;
+                border: 1px solid #ccc;
+                padding-left: 15px;
+                color:black;
+            }
+
+            .container2 .hızlı-kayıt2 .alt2 .textsoyad2 {
+                width: 450px;
+                height: 40px;
+                border: 1px solid #ccc;
+                padding-left: 15px;
+                color: black;
+            }
+
+            .container2 .hızlı-kayıt2 .alt2 .textkAd2 {
+                width: 450px;
+                height: 40px;
+                border: 1px solid #ccc;
+                padding-left: 15px;
+                color: black;
+            }
+            .container2 .hızlı-kayıt2 .alt2 .textsifre2 {
+                width: 450px;
+                height: 40px;
+                border: 1px solid #ccc;
+                color: black;
+                padding-left: 15px;
+            }
+
+            .container2 .hızlı-kayıt2 .alt2 .textmail2 {
+                width: 450px;
+                height: 40px;
+                border: 1px solid #ccc;
+                color: black;
+                padding-left: 15px;
+            }
+
+            .container2 .hızlı-kayıt2 .alt2 .btnKayıt2 {
+                float:right;
+                width: 150px;
+                height: 40px;
+                line-height: 40px;
+                text-align: center;
+                color: white;
+              margin-top:250px;
+                background-color: blue;
+            }
+            
+           .container2 .hızlı-kayıt2 .alt2 .kategori{
+               float:left;
+               margin-top:30px;
+               color:white;
+               font-family:'Comic Sans MS';
+               font-size:15px;
+               padding-left:35px;
+           }
+            .container .hızlı-kayıt .alt .lbl2 {
+              float: left;
+              color: white;
+              margin-top: 30px;
+              font-size: 35px;
+              padding-left:45px;
+}
+
+
+.sol-taraf {
+    float: left;
+    width: 300px;
+    height:700PX;
+    margin-top:45px;
+}
+    .sol-taraf .topics {
+        float: left;
+        width: 300px;
+        height: 700PX;
+        margin-top:45px;
+    }
+        .sol-taraf .topics .ust {
+            float: left;
+            width: 235px;
+            height: 50px;
+            line-height: 50px;
+            padding-left: 15px;
+            border-bottom: 1px solid #ccc;
+            background-color: #fff;
+            margin-top: 45px;
+            color: #ccc;
+        }
+        .sol-taraf .topics .alt {
+            float: left;
+            width: 215px;
+            padding: 17.5px;
+            height: auto;
+            border-bottom: 1px solid #ccc;
+            color: #555;
+            background-color: #fff;
+        }
+            .sol-taraf .topics .alt .topics-wrap {
+                float: left;
+                width: 100%;
+                height: auto;
+                background-color: #999;
+            }
+
+.icerik{
+    float:right;
+    width:1100px;
+    height:1000px;
+    background-color:#fff;
+    margin-top:45px;
+  
+}
+    .icerik .soru {
+      
+        width:500px;
+        height:80px;
+        margin:auto;
+        background-color:darkblue;
+        margin-top:45px;
+    }
+        .icerik .soru .btnsoru {
+            float: right;
+            width: 125px;
+            height: 60px;
+            
+            background-color: #4452f5;
+        }
+    .icerik .soru .txtsoru {
+        float:left;
+        width: 500px;
+        height: 80px;
+        border: 1px solid #ccc;
+        padding: 15px;
+        text-align:start;
+       margin-bottom:10px;
+    }
+    .icerik.lbl1{
+        padding-left:10px;
+        font-size:15px;
+        font-family:'Comic Sans MS';
+        color:darkblue;
+    } 
+    .icerik .baslık{
+        border-bottom-color:darkblue;
+    }
+
+.sol {
+    float: left;
+    width: 220px;
+    height:600px;
+    background-color: white;
+    margin-top :60px;
+}
+    .sol .foto {
+        width: 180px;
+        height: 180px;
+        margin-top: 15px;
+        margin-left:20px;
+        background-image: url('image/pro.png');
+        background-size:cover;
+    }
+    .sol .bilgi{
+
+        margin-top:15px;
+        font-family:'Comic Sans MS';
+        padding-left:15px;
+
+    }
+    .sol .secenek {
+        margin-top: 15px;
+        font-family: 'Comic Sans MS';
+        padding-left: 15px;
+    }
+        .sol .takip .btntakip {
+            float: left;
+            width: 150px;
+            height: 40px;
+            line-height: 40px;
+            text-align: center;
+            color: white;
+            background-color: green;
+            margin-top: 40px;
+            margin-left:35px;
+        }
+
+.sağ{
+    float:right;
+    width:800px;
+    height:600px;
+    margin-top:60px;
+    background-color:white;
+} 
+  .sağ .grid{
+      margin-left:px;
+  }

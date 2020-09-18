@@ -1,0 +1,251 @@
+c:\users\guler\documents\visual studio 2015\Projects\BigBang original\BigBang original\bin\ApplicationInsights.config
+c:\users\guler\documents\visual studio 2015\Projects\BigBang original\BigBang original\bin\roslyn\csc.exe
+c:\users\guler\documents\visual studio 2015\Projects\BigBang original\BigBang original\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\guler\documents\visual studio 2015\Projects\BigBang original\BigBang original\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\guler\documents\visual studio 2015\Projects\BigBang original\BigBang original\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\guler\documents\visual studio 2015\Projects\BigBang original\BigBang original\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\guler\documents\visual studio 2015\Projects\BigBang original\BigBang original\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\guler\documents\visual studio 2015\Projects\BigBang original\BigBang original\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\guler\documents\visual studio 2015\Projects\BigBang original\BigBang original\bin\roslyn\System.Collections.Immutable.dll
+c:\users\guler\documents\visual studio 2015\Projects\BigBang original\BigBang original\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\guler\documents\visual studio 2015\Projects\BigBang original\BigBang original\bin\roslyn\vbc.exe
+c:\users\guler\documents\visual studio 2015\Projects\BigBang original\BigBang original\bin\roslyn\VBCSCompiler.exe
+c:\users\guler\documents\visual studio 2015\Projects\BigBang original\BigBang original\bin\roslyn\VBCSCompiler.exe.config
+c:\users\guler\documents\visual studio 2015\Projects\BigBang original\BigBang original\bin\BigBang original.dll.config
+c:\users\guler\documents\visual studio 2015\Projects\BigBang original\BigBang original\bin\BigBang original.dll
+c:\users\guler\documents\visual studio 2015\Projects\BigBang original\BigBang original\bin\BigBang original.pdb
+c:\users\guler\documents\visual studio 2015\Projects\BigBang original\BigBang original\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\guler\documents\visual studio 2015\Projects\BigBang original\BigBang original\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\guler\documents\visual studio 2015\Projects\BigBang original\BigBang original\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\guler\documents\visual studio 2015\Projects\BigBang original\BigBang original\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\guler\documents\visual studio 2015\Projects\BigBang original\BigBang original\bin\Microsoft.AI.Web.dll
+c:\users\guler\documents\visual studio 2015\Projects\BigBang original\BigBang original\bin\Microsoft.AI.WindowsServer.dll
+c:\users\guler\documents\visual studio 2015\Projects\BigBang original\BigBang original\bin\Microsoft.ApplicationInsights.dll
+c:\users\guler\documents\visual studio 2015\Projects\BigBang original\BigBang original\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\guler\documents\visual studio 2015\Projects\BigBang original\BigBang original\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\guler\documents\visual studio 2015\Projects\BigBang original\BigBang original\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\guler\documents\visual studio 2015\Projects\BigBang original\BigBang original\bin\Microsoft.AI.Web.xml
+c:\users\guler\documents\visual studio 2015\Projects\BigBang original\BigBang original\bin\Microsoft.AI.WindowsServer.xml
+c:\users\guler\documents\visual studio 2015\Projects\BigBang original\BigBang original\bin\Microsoft.ApplicationInsights.xml
+c:\users\guler\documents\visual studio 2015\Projects\BigBang original\BigBang original\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\guler\documents\visual studio 2015\Projects\BigBang original\BigBang original\obj\Debug\BigBang original.csprojResolveAssemblyReference.cache
+c:\users\guler\documents\visual studio 2015\Projects\BigBang original\BigBang original\obj\Debug\BigBang original.dll
+c:\users\guler\documents\visual studio 2015\Projects\BigBang original\BigBang original\obj\Debug\BigBang original.pdb
+C:\Users\Administrator\Desktop\BigBang original\BigBang original\bin\ApplicationInsights.config
+C:\Users\Administrator\Desktop\BigBang original\BigBang original\bin\roslyn\csc.exe
+C:\Users\Administrator\Desktop\BigBang original\BigBang original\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrator\Desktop\BigBang original\BigBang original\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrator\Desktop\BigBang original\BigBang original\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrator\Desktop\BigBang original\BigBang original\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrator\Desktop\BigBang original\BigBang original\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrator\Desktop\BigBang original\BigBang original\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrator\Desktop\BigBang original\BigBang original\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrator\Desktop\BigBang original\BigBang original\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrator\Desktop\BigBang original\BigBang original\bin\roslyn\vbc.exe
+C:\Users\Administrator\Desktop\BigBang original\BigBang original\bin\roslyn\VBCSCompiler.exe
+C:\Users\Administrator\Desktop\BigBang original\BigBang original\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrator\Desktop\BigBang original\BigBang original\bin\BigBang original.dll
+C:\Users\Administrator\Desktop\BigBang original\BigBang original\bin\BigBang original.pdb
+C:\Users\Administrator\Desktop\BigBang original\BigBang original\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Administrator\Desktop\BigBang original\BigBang original\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Administrator\Desktop\BigBang original\BigBang original\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Administrator\Desktop\BigBang original\BigBang original\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Administrator\Desktop\BigBang original\BigBang original\bin\Microsoft.AI.Web.dll
+C:\Users\Administrator\Desktop\BigBang original\BigBang original\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Administrator\Desktop\BigBang original\BigBang original\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Administrator\Desktop\BigBang original\BigBang original\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrator\Desktop\BigBang original\BigBang original\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Administrator\Desktop\BigBang original\BigBang original\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Administrator\Desktop\BigBang original\BigBang original\bin\Microsoft.AI.Web.xml
+C:\Users\Administrator\Desktop\BigBang original\BigBang original\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Administrator\Desktop\BigBang original\BigBang original\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Administrator\Desktop\BigBang original\BigBang original\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrator\Desktop\BigBang original\BigBang original\obj\Debug\BigBang original.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\BigBang original\BigBang original\obj\Debug\BigBang original.dll
+C:\Users\Administrator\Desktop\BigBang original\BigBang original\obj\Debug\BigBang original.pdb
+C:\Users\HP\Desktop\BigBang original\BigBang original\bin\ApplicationInsights.config
+C:\Users\HP\Desktop\BigBang original\BigBang original\bin\roslyn\csc.exe
+C:\Users\HP\Desktop\BigBang original\BigBang original\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HP\Desktop\BigBang original\BigBang original\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP\Desktop\BigBang original\BigBang original\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HP\Desktop\BigBang original\BigBang original\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HP\Desktop\BigBang original\BigBang original\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HP\Desktop\BigBang original\BigBang original\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HP\Desktop\BigBang original\BigBang original\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HP\Desktop\BigBang original\BigBang original\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HP\Desktop\BigBang original\BigBang original\bin\roslyn\vbc.exe
+C:\Users\HP\Desktop\BigBang original\BigBang original\bin\roslyn\VBCSCompiler.exe
+C:\Users\HP\Desktop\BigBang original\BigBang original\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HP\Desktop\BigBang original\BigBang original\bin\BigBang original.dll.config
+C:\Users\HP\Desktop\BigBang original\BigBang original\bin\BigBang original.dll
+C:\Users\HP\Desktop\BigBang original\BigBang original\bin\BigBang original.pdb
+C:\Users\HP\Desktop\BigBang original\BigBang original\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\HP\Desktop\BigBang original\BigBang original\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\HP\Desktop\BigBang original\BigBang original\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\HP\Desktop\BigBang original\BigBang original\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\HP\Desktop\BigBang original\BigBang original\bin\Microsoft.AI.Web.dll
+C:\Users\HP\Desktop\BigBang original\BigBang original\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\HP\Desktop\BigBang original\BigBang original\bin\Microsoft.ApplicationInsights.dll
+C:\Users\HP\Desktop\BigBang original\BigBang original\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HP\Desktop\BigBang original\BigBang original\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\HP\Desktop\BigBang original\BigBang original\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\HP\Desktop\BigBang original\BigBang original\bin\Microsoft.AI.Web.xml
+C:\Users\HP\Desktop\BigBang original\BigBang original\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\HP\Desktop\BigBang original\BigBang original\bin\Microsoft.ApplicationInsights.xml
+C:\Users\HP\Desktop\BigBang original\BigBang original\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HP\Desktop\BigBang original\BigBang original\obj\Debug\BigBang original.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\BigBang original\BigBang original\obj\Debug\BigBang original.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\BigBang original\BigBang original\obj\Debug\BigBang original.dll
+C:\Users\HP\Desktop\BigBang original\BigBang original\obj\Debug\BigBang original.pdb
+C:\Users\Barış\Desktop\BigBang original\BigBang original\bin\ApplicationInsights.config
+C:\Users\Barış\Desktop\BigBang original\BigBang original\bin\BigBang original.dll.config
+C:\Users\Barış\Desktop\BigBang original\BigBang original\bin\BigBang original.dll
+C:\Users\Barış\Desktop\BigBang original\BigBang original\bin\BigBang original.pdb
+C:\Users\Barış\Desktop\BigBang original\BigBang original\bin\roslyn\csc.exe
+C:\Users\Barış\Desktop\BigBang original\BigBang original\bin\roslyn\csc.exe.config
+C:\Users\Barış\Desktop\BigBang original\BigBang original\bin\roslyn\csc.rsp
+C:\Users\Barış\Desktop\BigBang original\BigBang original\bin\roslyn\csi.exe
+C:\Users\Barış\Desktop\BigBang original\BigBang original\bin\roslyn\csi.exe.config
+C:\Users\Barış\Desktop\BigBang original\BigBang original\bin\roslyn\csi.rsp
+C:\Users\Barış\Desktop\BigBang original\BigBang original\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Barış\Desktop\BigBang original\BigBang original\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Barış\Desktop\BigBang original\BigBang original\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Barış\Desktop\BigBang original\BigBang original\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Barış\Desktop\BigBang original\BigBang original\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Barış\Desktop\BigBang original\BigBang original\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Barış\Desktop\BigBang original\BigBang original\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Barış\Desktop\BigBang original\BigBang original\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Barış\Desktop\BigBang original\BigBang original\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Barış\Desktop\BigBang original\BigBang original\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Barış\Desktop\BigBang original\BigBang original\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Barış\Desktop\BigBang original\BigBang original\bin\roslyn\System.AppContext.dll
+C:\Users\Barış\Desktop\BigBang original\BigBang original\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Barış\Desktop\BigBang original\BigBang original\bin\roslyn\System.Console.dll
+C:\Users\Barış\Desktop\BigBang original\BigBang original\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Barış\Desktop\BigBang original\BigBang original\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Barış\Desktop\BigBang original\BigBang original\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Barış\Desktop\BigBang original\BigBang original\bin\roslyn\System.IO.Compression.dll
+C:\Users\Barış\Desktop\BigBang original\BigBang original\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Barış\Desktop\BigBang original\BigBang original\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Barış\Desktop\BigBang original\BigBang original\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Barış\Desktop\BigBang original\BigBang original\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Barış\Desktop\BigBang original\BigBang original\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Barış\Desktop\BigBang original\BigBang original\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Barış\Desktop\BigBang original\BigBang original\bin\roslyn\System.Security.Claims.dll
+C:\Users\Barış\Desktop\BigBang original\BigBang original\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Barış\Desktop\BigBang original\BigBang original\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Barış\Desktop\BigBang original\BigBang original\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Barış\Desktop\BigBang original\BigBang original\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Barış\Desktop\BigBang original\BigBang original\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Barış\Desktop\BigBang original\BigBang original\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Barış\Desktop\BigBang original\BigBang original\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Barış\Desktop\BigBang original\BigBang original\bin\roslyn\System.ValueTuple.dll
+C:\Users\Barış\Desktop\BigBang original\BigBang original\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Barış\Desktop\BigBang original\BigBang original\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Barış\Desktop\BigBang original\BigBang original\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Barış\Desktop\BigBang original\BigBang original\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Barış\Desktop\BigBang original\BigBang original\bin\roslyn\vbc.exe
+C:\Users\Barış\Desktop\BigBang original\BigBang original\bin\roslyn\vbc.exe.config
+C:\Users\Barış\Desktop\BigBang original\BigBang original\bin\roslyn\vbc.rsp
+C:\Users\Barış\Desktop\BigBang original\BigBang original\bin\roslyn\VBCSCompiler.exe
+C:\Users\Barış\Desktop\BigBang original\BigBang original\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Barış\Desktop\BigBang original\BigBang original\bin\Dapper.dll
+C:\Users\Barış\Desktop\BigBang original\BigBang original\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Barış\Desktop\BigBang original\BigBang original\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Barış\Desktop\BigBang original\BigBang original\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Barış\Desktop\BigBang original\BigBang original\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Barış\Desktop\BigBang original\BigBang original\bin\Microsoft.AI.Web.dll
+C:\Users\Barış\Desktop\BigBang original\BigBang original\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Barış\Desktop\BigBang original\BigBang original\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Barış\Desktop\BigBang original\BigBang original\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Barış\Desktop\BigBang original\BigBang original\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Barış\Desktop\BigBang original\BigBang original\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Barış\Desktop\BigBang original\BigBang original\bin\Dapper.xml
+C:\Users\Barış\Desktop\BigBang original\BigBang original\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Barış\Desktop\BigBang original\BigBang original\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Barış\Desktop\BigBang original\BigBang original\bin\Microsoft.AI.Web.xml
+C:\Users\Barış\Desktop\BigBang original\BigBang original\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Barış\Desktop\BigBang original\BigBang original\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Barış\Desktop\BigBang original\BigBang original\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Barış\Desktop\BigBang original\BigBang original\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Barış\Desktop\BigBang original\BigBang original\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Barış\Desktop\BigBang original\BigBang original\obj\Debug\BigBang original.csprojResolveAssemblyReference.cache
+C:\Users\Barış\Desktop\BigBang original\BigBang original\obj\Debug\BigBang original.csproj.CoreCompileInputs.cache
+C:\Users\Barış\Desktop\BigBang original\BigBang original\obj\Debug\BigBang original.dll
+C:\Users\Barış\Desktop\BigBang original\BigBang original\obj\Debug\BigBang original.pdb
+C:\Users\Baris\Desktop\Ders Notları\Veritabanı Yönetimi\BigBang original\BigBang original\bin\ApplicationInsights.config
+C:\Users\Baris\Desktop\Ders Notları\Veritabanı Yönetimi\BigBang original\BigBang original\bin\BigBang original.dll.config
+C:\Users\Baris\Desktop\Ders Notları\Veritabanı Yönetimi\BigBang original\BigBang original\bin\BigBang original.dll
+C:\Users\Baris\Desktop\Ders Notları\Veritabanı Yönetimi\BigBang original\BigBang original\bin\BigBang original.pdb
+C:\Users\Baris\Desktop\Ders Notları\Veritabanı Yönetimi\BigBang original\BigBang original\bin\roslyn\csc.exe
+C:\Users\Baris\Desktop\Ders Notları\Veritabanı Yönetimi\BigBang original\BigBang original\bin\roslyn\csc.exe.config
+C:\Users\Baris\Desktop\Ders Notları\Veritabanı Yönetimi\BigBang original\BigBang original\bin\roslyn\csc.rsp
+C:\Users\Baris\Desktop\Ders Notları\Veritabanı Yönetimi\BigBang original\BigBang original\bin\roslyn\csi.exe
+C:\Users\Baris\Desktop\Ders Notları\Veritabanı Yönetimi\BigBang original\BigBang original\bin\roslyn\csi.exe.config
+C:\Users\Baris\Desktop\Ders Notları\Veritabanı Yönetimi\BigBang original\BigBang original\bin\roslyn\csi.rsp
+C:\Users\Baris\Desktop\Ders Notları\Veritabanı Yönetimi\BigBang original\BigBang original\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Baris\Desktop\Ders Notları\Veritabanı Yönetimi\BigBang original\BigBang original\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Baris\Desktop\Ders Notları\Veritabanı Yönetimi\BigBang original\BigBang original\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Baris\Desktop\Ders Notları\Veritabanı Yönetimi\BigBang original\BigBang original\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Baris\Desktop\Ders Notları\Veritabanı Yönetimi\BigBang original\BigBang original\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Baris\Desktop\Ders Notları\Veritabanı Yönetimi\BigBang original\BigBang original\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Baris\Desktop\Ders Notları\Veritabanı Yönetimi\BigBang original\BigBang original\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Baris\Desktop\Ders Notları\Veritabanı Yönetimi\BigBang original\BigBang original\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Baris\Desktop\Ders Notları\Veritabanı Yönetimi\BigBang original\BigBang original\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Baris\Desktop\Ders Notları\Veritabanı Yönetimi\BigBang original\BigBang original\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Baris\Desktop\Ders Notları\Veritabanı Yönetimi\BigBang original\BigBang original\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Baris\Desktop\Ders Notları\Veritabanı Yönetimi\BigBang original\BigBang original\bin\roslyn\System.AppContext.dll
+C:\Users\Baris\Desktop\Ders Notları\Veritabanı Yönetimi\BigBang original\BigBang original\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Baris\Desktop\Ders Notları\Veritabanı Yönetimi\BigBang original\BigBang original\bin\roslyn\System.Console.dll
+C:\Users\Baris\Desktop\Ders Notları\Veritabanı Yönetimi\BigBang original\BigBang original\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Baris\Desktop\Ders Notları\Veritabanı Yönetimi\BigBang original\BigBang original\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Baris\Desktop\Ders Notları\Veritabanı Yönetimi\BigBang original\BigBang original\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Baris\Desktop\Ders Notları\Veritabanı Yönetimi\BigBang original\BigBang original\bin\roslyn\System.IO.Compression.dll
+C:\Users\Baris\Desktop\Ders Notları\Veritabanı Yönetimi\BigBang original\BigBang original\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Baris\Desktop\Ders Notları\Veritabanı Yönetimi\BigBang original\BigBang original\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Baris\Desktop\Ders Notları\Veritabanı Yönetimi\BigBang original\BigBang original\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Baris\Desktop\Ders Notları\Veritabanı Yönetimi\BigBang original\BigBang original\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Baris\Desktop\Ders Notları\Veritabanı Yönetimi\BigBang original\BigBang original\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Baris\Desktop\Ders Notları\Veritabanı Yönetimi\BigBang original\BigBang original\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Baris\Desktop\Ders Notları\Veritabanı Yönetimi\BigBang original\BigBang original\bin\roslyn\System.Security.Claims.dll
+C:\Users\Baris\Desktop\Ders Notları\Veritabanı Yönetimi\BigBang original\BigBang original\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Baris\Desktop\Ders Notları\Veritabanı Yönetimi\BigBang original\BigBang original\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Baris\Desktop\Ders Notları\Veritabanı Yönetimi\BigBang original\BigBang original\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Baris\Desktop\Ders Notları\Veritabanı Yönetimi\BigBang original\BigBang original\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Baris\Desktop\Ders Notları\Veritabanı Yönetimi\BigBang original\BigBang original\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Baris\Desktop\Ders Notları\Veritabanı Yönetimi\BigBang original\BigBang original\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Baris\Desktop\Ders Notları\Veritabanı Yönetimi\BigBang original\BigBang original\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Baris\Desktop\Ders Notları\Veritabanı Yönetimi\BigBang original\BigBang original\bin\roslyn\System.ValueTuple.dll
+C:\Users\Baris\Desktop\Ders Notları\Veritabanı Yönetimi\BigBang original\BigBang original\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Baris\Desktop\Ders Notları\Veritabanı Yönetimi\BigBang original\BigBang original\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Baris\Desktop\Ders Notları\Veritabanı Yönetimi\BigBang original\BigBang original\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Baris\Desktop\Ders Notları\Veritabanı Yönetimi\BigBang original\BigBang original\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Baris\Desktop\Ders Notları\Veritabanı Yönetimi\BigBang original\BigBang original\bin\roslyn\vbc.exe
+C:\Users\Baris\Desktop\Ders Notları\Veritabanı Yönetimi\BigBang original\BigBang original\bin\roslyn\vbc.exe.config
+C:\Users\Baris\Desktop\Ders Notları\Veritabanı Yönetimi\BigBang original\BigBang original\bin\roslyn\vbc.rsp
+C:\Users\Baris\Desktop\Ders Notları\Veritabanı Yönetimi\BigBang original\BigBang original\bin\roslyn\VBCSCompiler.exe
+C:\Users\Baris\Desktop\Ders Notları\Veritabanı Yönetimi\BigBang original\BigBang original\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Baris\Desktop\Ders Notları\Veritabanı Yönetimi\BigBang original\BigBang original\bin\Dapper.dll
+C:\Users\Baris\Desktop\Ders Notları\Veritabanı Yönetimi\BigBang original\BigBang original\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Baris\Desktop\Ders Notları\Veritabanı Yönetimi\BigBang original\BigBang original\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Baris\Desktop\Ders Notları\Veritabanı Yönetimi\BigBang original\BigBang original\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Baris\Desktop\Ders Notları\Veritabanı Yönetimi\BigBang original\BigBang original\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Baris\Desktop\Ders Notları\Veritabanı Yönetimi\BigBang original\BigBang original\bin\Microsoft.AI.Web.dll
+C:\Users\Baris\Desktop\Ders Notları\Veritabanı Yönetimi\BigBang original\BigBang original\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Baris\Desktop\Ders Notları\Veritabanı Yönetimi\BigBang original\BigBang original\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Baris\Desktop\Ders Notları\Veritabanı Yönetimi\BigBang original\BigBang original\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Baris\Desktop\Ders Notları\Veritabanı Yönetimi\BigBang original\BigBang original\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Baris\Desktop\Ders Notları\Veritabanı Yönetimi\BigBang original\BigBang original\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Baris\Desktop\Ders Notları\Veritabanı Yönetimi\BigBang original\BigBang original\bin\Dapper.xml
+C:\Users\Baris\Desktop\Ders Notları\Veritabanı Yönetimi\BigBang original\BigBang original\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Baris\Desktop\Ders Notları\Veritabanı Yönetimi\BigBang original\BigBang original\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Baris\Desktop\Ders Notları\Veritabanı Yönetimi\BigBang original\BigBang original\bin\Microsoft.AI.Web.xml
+C:\Users\Baris\Desktop\Ders Notları\Veritabanı Yönetimi\BigBang original\BigBang original\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Baris\Desktop\Ders Notları\Veritabanı Yönetimi\BigBang original\BigBang original\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Baris\Desktop\Ders Notları\Veritabanı Yönetimi\BigBang original\BigBang original\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Baris\Desktop\Ders Notları\Veritabanı Yönetimi\BigBang original\BigBang original\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Baris\Desktop\Ders Notları\Veritabanı Yönetimi\BigBang original\BigBang original\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Baris\Desktop\Ders Notları\Veritabanı Yönetimi\BigBang original\BigBang original\obj\Debug\BigBang original.csprojAssemblyReference.cache
+C:\Users\Baris\Desktop\Ders Notları\Veritabanı Yönetimi\BigBang original\BigBang original\obj\Debug\BigBang original.csproj.CopyComplete
+C:\Users\Baris\Desktop\Ders Notları\Veritabanı Yönetimi\BigBang original\BigBang original\obj\Debug\BigBang original.dll
+C:\Users\Baris\Desktop\Ders Notları\Veritabanı Yönetimi\BigBang original\BigBang original\obj\Debug\BigBang original.pdb
